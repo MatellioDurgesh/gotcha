@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/cgt/NotesApp/android/app/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/cgt/.android/build-cache/45de05e2ee5a061b3f274a3e616cb58675422c90/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/cgt/NotesApp/android/app/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/cgt/.android/build-cache/afcb706bd4ca9271e767767bed2a26159cf2f7fa/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/cgt/NotesApp/android/app/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/cgt/.android/build-cache/afcb706bd4ca9271e767767bed2a26159cf2f7fa/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/cgt/NotesApp/android/app/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/cgt/.android/build-cache/afcb706bd4ca9271e767767bed2a26159cf2f7fa/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

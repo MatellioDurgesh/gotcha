@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/cgt/NotesApp/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/cgt/.android/build-cache/afcb706bd4ca9271e767767bed2a26159cf2f7fa/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/cgt/NotesApp/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/cgt/.android/build-cache/afcb706bd4ca9271e767767bed2a26159cf2f7fa/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/cgt/NotesApp/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/cgt/.android/build-cache/afcb706bd4ca9271e767767bed2a26159cf2f7fa/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/cgt/NotesApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/cgt/.android/build-cache/f00b678bb6463a70b9914545ed59b97a8e8c3ff3/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/cgt/NotesApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/cgt/.android/build-cache/afcb706bd4ca9271e767767bed2a26159cf2f7fa/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/cgt/NotesApp/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/cgt/.android/build-cache/afcb706bd4ca9271e767767bed2a26159cf2f7fa/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/cgt/NotesApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/cgt/.android/build-cache/afcb706bd4ca9271e767767bed2a26159cf2f7fa/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/cgt/NotesApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/cgt/.android/build-cache/f00b678bb6463a70b9914545ed59b97a8e8c3ff3/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/cgt/NotesApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/cgt/.android/build-cache/afcb706bd4ca9271e767767bed2a26159cf2f7fa/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/cgt/NotesApp/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/Users/cgt/.android/build-cache/afcb706bd4ca9271e767767bed2a26159cf2f7fa/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/cgt/NotesApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
+        "source": "/Users/cgt/.android/build-cache/f00b678bb6463a70b9914545ed59b97a8e8c3ff3/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/cgt/NotesApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/cgt/.android/build-cache/afcb706bd4ca9271e767767bed2a26159cf2f7fa/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/cgt/NotesApp/android/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/Users/cgt/.android/build-cache/afcb706bd4ca9271e767767bed2a26159cf2f7fa/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/cgt/NotesApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
+        "source": "/Users/cgt/.android/build-cache/f00b678bb6463a70b9914545ed59b97a8e8c3ff3/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/cgt/NotesApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/cgt/.android/build-cache/f00b678bb6463a70b9914545ed59b97a8e8c3ff3/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/cgt/NotesApp/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/cgt/.android/build-cache/afcb706bd4ca9271e767767bed2a26159cf2f7fa/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/cgt/NotesApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/Users/cgt/.android/build-cache/f00b678bb6463a70b9914545ed59b97a8e8c3ff3/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/cgt/NotesApp/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/cgt/.android/build-cache/afcb706bd4ca9271e767767bed2a26159cf2f7fa/output/res/anim/abc_popup_exit.xml"
+    }
+]

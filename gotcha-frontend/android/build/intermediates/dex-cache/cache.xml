@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.android/build-cache/60be439fecd858640a147bf3f65d77d876330c88/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/classes_1eb19be18c09a14d7f9860b602a27a3f9aa2831d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.android/build-cache/d3e3e0eac848d8a2996eb8302aaec82c4101a71a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/classes_2886d74b1c306db0830b8bbf6ced94fa9f392ade.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.android/build-cache/f62bfd4ef4aaa9bf0bad7064d0d19909df68444f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/classes_18f1fa89773c340d160212feec6cb92b2ae3f867.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_dfda3f8a6c37f95a3a0d858120f0250015d6d351.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.android/build-cache/afcb706bd4ca9271e767767bed2a26159cf2f7fa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/classes_8eb83980d35a6a350ca80319b63af84f28e00234.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_3d54cf9c51828d719b5d4fbdaca9ff3504d32fdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_d0ed4bb2e7db9fecb7291b525d285698886de200.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_952519998297af550a2f00f7f302000a6b3c12b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.android/build-cache/ab99b20ef777cabd82ea53bafaade47d2cfc82ea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/classes_5a333a1531a504982cd462a13e0d2ba38141df84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.android/build-cache/74ff03a1bdf882d72e98573e0618916933971e47/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/classes_5e8c9b811c007f9551f38f3ed908d97fbd656216.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_0b882a3480ea63e37d65bc9a53372d318777f848.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.android/build-cache/c092daa77faeae11accec07bbd314e4eb621f483/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/classes_535e74bd4b2a625688655842b09b3886af2f7238.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.android/build-cache/b44f60305aab09efe993c84f712e60485d530f20/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/classes_079930e5694398af9fbe2013ccf29dfaf809f285.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.android/build-cache/2ba3e1e107ccffce995190ae76731648f8b77186/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/classes_9df36291c8fd78db690f143417474f3fddf3d330.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_46eba908b58fe26b75878fa6fe7e79acad114487.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.android/build-cache/d13164525a8bb228891ddc00b3274ca37e728c0c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/classes_7bc50681710b3f4422675fd67e3f296151de5947.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_ccc971beb4a3fe0686f5c52ea44e6a089a34abf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.android/build-cache/fe10b8e548378560437a34fa315832ae051b9a4b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/classes_8a82f7c602ffcdb4b51060d473c4c69de75476b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.android/build-cache/45de05e2ee5a061b3f274a3e616cb58675422c90/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/classes_486c21fbd9a51c3ede70d0634624584a9b7abb12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.android/build-cache/f00b678bb6463a70b9914545ed59b97a8e8c3ff3/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_ffa04b45f0942a1ea94bd8857eb960e0795a1d86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.android/build-cache/e879345cd946a3343a246a5d407f56884732bd40/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/classes_1e962f15e68f423682b9f376ea71a6f8b6ed94ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_83aff2f182ac4904dade4140584ad0e34ed2af28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.android/build-cache/1332ecc71f68823cfea1c0a692524490595053b6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/classes_997ee0e0d956ca018ee43aee7710a667c7b238fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.android/build-cache/5a14ccae94f7e82b5503759be974fc2636e82f8f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/classes_e0c78d5ca99ab0d26daced9c12cb91fe1f286196.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.android/build-cache/f00b678bb6463a70b9914545ed59b97a8e8c3ff3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/classes_4ebc6e259e7867f15d958f5a87177ebd9bdcf2ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.android/build-cache/e4e0ffcacca261bb16f9c9a458c977d026ee0a8a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/classes_58deed2c5aa8a816cfd1ee555f823c54fc21b547.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.android/build-cache/3274312a7eaf2f3218f323aab83a9f97b597821c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/classes_de6c00a487517a45a81ad9ced3b6609f9e89237c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_db2450005488f140dcfc9df90909ba719ad1ba17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.android/build-cache/d6aa754e6a9dbde24fa3edd4179b6b77aa5ed6d1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/classes_dccbba6d279e11bbf2befaaf975b53875241a616.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cgt/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/cgt/NotesApp/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_5e9783509eef6c351e8c77abfad880691e7c921c.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/cgt/NotesApp/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/icon.png",
+        "source": "/Users/cgt/NotesApp/android/app/src/main/res/mipmap-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/cgt/NotesApp/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/cgt/NotesApp/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/cgt/NotesApp/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/cgt/NotesApp/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

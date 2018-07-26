@@ -1,0 +1,4 @@
+#Thu Jul 26 15:09:01 IST 2018
+base.0=/Users/cgt/NotesApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/cgt/NotesApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
