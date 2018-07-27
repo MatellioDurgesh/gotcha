@@ -29,7 +29,10 @@ python manage.py collectstatic
 # Run Django Server
 python manage.py runserver 0.0.0.0:8080
 ```
-
+### Initial Setup for App
+```bash
+# Change BASE_URL and GET_ALL_NOTES in src/config/global.js in NotesApp Directory
+```
 ### Other Helpful Commands
 ```bash
 # Create Admin User for Django
