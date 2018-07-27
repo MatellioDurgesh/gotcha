@@ -31,7 +31,8 @@ python manage.py runserver 0.0.0.0:8080
 ```
 ### Initial Setup for App
 ```bash
-# Change BASE_URL and GET_ALL_NOTES in src/config/global.js in NotesApp Directory
+# Change BASE_URL and GET_ALL_NOTES 
+source src/config/global.js 
 ```
 ### Other Helpful Commands
 ```bash
